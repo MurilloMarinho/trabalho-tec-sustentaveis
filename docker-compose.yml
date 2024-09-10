@@ -1,0 +1,6 @@
+version: '3'
+services:
+  web:
+    image: murillomarinho/trabalho-tec-sustentaveis
+    ports:
+      - "8080:80"
